@@ -3,7 +3,12 @@ guid: af54abf464fd362488730d2657e9eeaa
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DS_SM024_Scifi_Room_VentColumn_01
+    second: {fileID: 2100000, guid: c37554a72a553da46b12eba9e4707d2c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
