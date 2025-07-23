@@ -3,7 +3,12 @@ guid: 88ca7b2f2b0eabb408d01725047e655c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DM001_Scifi_Robot_Spark_01
+    second: {fileID: 2100000, guid: d07c2c08a9931b043958f8eb3aec8bfd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
