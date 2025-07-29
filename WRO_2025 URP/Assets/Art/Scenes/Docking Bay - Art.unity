@@ -67848,7 +67848,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 747055437}
-  m_VersionIndex: 145
+  m_VersionIndex: 262
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
@@ -68389,7 +68389,7 @@ PrefabInstance:
       objectReference: {fileID: 1085381915}
     - target: {fileID: 44182784612776248, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 132
+      value: 249
       objectReference: {fileID: 0}
     - target: {fileID: 90294903231575826, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -68445,7 +68445,7 @@ PrefabInstance:
       objectReference: {fileID: 1431770688}
     - target: {fileID: 806007753553960841, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 127
+      value: 244
       objectReference: {fileID: 0}
     - target: {fileID: 830163323764578492, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_Mesh
@@ -68453,7 +68453,11 @@ PrefabInstance:
       objectReference: {fileID: 1149665470}
     - target: {fileID: 830163323764578492, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 127
+      value: 244
+      objectReference: {fileID: 0}
+    - target: {fileID: 932737818560281954, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
+      propertyPath: m_Name
+      value: Drone_Thaka
       objectReference: {fileID: 0}
     - target: {fileID: 951734341491237611, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -68473,7 +68477,7 @@ PrefabInstance:
       objectReference: {fileID: 1037226916}
     - target: {fileID: 1697668422302296120, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 127
+      value: 244
       objectReference: {fileID: 0}
     - target: {fileID: 1714329789089557551, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: ColorModule.gradient.maxGradient.ctime2
@@ -68545,7 +68549,7 @@ PrefabInstance:
       objectReference: {fileID: 1573557149}
     - target: {fileID: 2747096698569307214, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 127
+      value: 244
       objectReference: {fileID: 0}
     - target: {fileID: 2789262029127414651, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_Mesh
@@ -68553,7 +68557,7 @@ PrefabInstance:
       objectReference: {fileID: 809662147}
     - target: {fileID: 2789262029127414651, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 127
+      value: 244
       objectReference: {fileID: 0}
     - target: {fileID: 3022514270846690748, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -68577,7 +68581,11 @@ PrefabInstance:
       objectReference: {fileID: 1604605762}
     - target: {fileID: 3291249719587394303, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 132
+      value: 249
+      objectReference: {fileID: 0}
+    - target: {fileID: 3499925173908500785, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
+      propertyPath: m_Name
+      value: Drone_01
       objectReference: {fileID: 0}
     - target: {fileID: 3594934103648850728, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_Intensity
@@ -68597,7 +68605,7 @@ PrefabInstance:
       objectReference: {fileID: 1991128179}
     - target: {fileID: 4233227810944943103, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 127
+      value: 244
       objectReference: {fileID: 0}
     - target: {fileID: 4469347855463338149, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_Mesh
@@ -68707,6 +68715,10 @@ PrefabInstance:
       propertyPath: ColorModule.gradient.maxGradient.key3.r
       value: 0.1764706
       objectReference: {fileID: 0}
+    - target: {fileID: 5517161193722535630, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
+      propertyPath: m_Name
+      value: Drone_Tetco
+      objectReference: {fileID: 0}
     - target: {fileID: 5563345875240117048, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -68717,7 +68729,7 @@ PrefabInstance:
       objectReference: {fileID: 34179799}
     - target: {fileID: 5770496618019725288, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 145
+      value: 262
       objectReference: {fileID: 0}
     - target: {fileID: 5937433049754891123, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
@@ -68925,7 +68937,7 @@ PrefabInstance:
       objectReference: {fileID: 1503227162}
     - target: {fileID: 9156717213206900863, guid: f149e0e12ba99e94abc3c15ce3b9c18e, type: 3}
       propertyPath: m_VersionIndex
-      value: 145
+      value: 262
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
